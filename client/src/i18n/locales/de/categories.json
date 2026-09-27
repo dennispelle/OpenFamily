@@ -1,0 +1,25 @@
+{
+  "title": "Kategorien",
+  "subtitle": "Passe die Kategorielisten für Einkäufe, Rezepte und Budget an. Beim Umbenennen einer Kategorie werden deine bestehenden Einträge aktualisiert.",
+  "parentOnly": "Nur Eltern können Kategorien bearbeiten.",
+  "modules": {
+    "shopping": "Einkäufe",
+    "recipe": "Rezepte",
+    "budget": "Budget"
+  },
+  "addPlaceholder": "Neue Kategorie…",
+  "add": "Hinzufügen",
+  "save": "Speichern",
+  "saved": "Kategorien gespeichert.",
+  "reset": "Änderungen verwerfen",
+  "moveUp": "Nach oben",
+  "moveDown": "Nach unten",
+  "remove": "Entfernen",
+  "hintReassign": "Einträge einer entfernten Kategorie werden nach „{{fallback}}“ verschoben.",
+  "errors": {
+    "empty": "Kategorienamen dürfen nicht leer sein.",
+    "duplicate": "Doppelte Kategorie: {{name}}",
+    "atLeastOne": "Behalte mindestens eine Kategorie.",
+    "save": "Kategorien konnten nicht gespeichert werden."
+  }
+}

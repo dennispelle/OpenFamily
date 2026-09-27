@@ -1,0 +1,130 @@
+{
+  "loading": "Familie wird geladen…",
+  "title": "Familie",
+  "subtitle": "Verwalte deine Familienmitglieder",
+  "addMember": "Mitglied hinzufügen",
+  "empty": "Keine Familienmitglieder. Füge dein erstes Mitglied hinzu!",
+  "roles": {
+    "Parent": "Elternteil",
+    "Enfant": "Kind",
+    "Etudiant": "Student/in",
+    "Autre": "Sonstige"
+  },
+  "colors": {
+    "coral": "Koralle",
+    "orange": "Orange",
+    "yellow": "Gelb",
+    "green": "Grün",
+    "cyan": "Cyan",
+    "blue": "Blau",
+    "indigo": "Indigo",
+    "pink": "Rosa"
+  },
+  "card": {
+    "age_one": "{{count}} Jahr alt",
+    "age_other": "{{count}} Jahre alt",
+    "health": "Gesundheit",
+    "allergies": "Allergien:",
+    "medications": "Medikamente:",
+    "emergency": "Notfallkontakt"
+  },
+  "shared": {
+    "title": "Geteilte Konten",
+    "subtitle": "Teile den Zugriff auf deine Familiendaten mit anderen Konten.",
+    "you": "(du)",
+    "owner": "Eigentümer",
+    "child": "🧒 Kind",
+    "parent": "👨 Elternteil",
+    "none": "Noch teilt kein anderes Konto diese Familie.",
+    "roleParent": "Elternteil",
+    "roleChild": "Kind",
+    "roleTitle": "Rolle des Mitglieds",
+    "transferTitle": "Eigentum an dieses Konto übertragen",
+    "kickTitle": "Dieses Konto entfernen"
+  },
+  "link": {
+    "label": "Verknüpftes Konto",
+    "none": "Kein verknüpftes Konto",
+    "hint": "Verknüpfe dieses Profil mit einem geteilten Konto: Ein Kinderkonto sieht dann sein Sparschwein und seine Ziele."
+  },
+  "requests": {
+    "title": "Beitrittsanfragen",
+    "accept": "Annehmen",
+    "rejectTitle": "Ablehnen"
+  },
+  "myRequest": {
+    "pendingTitle": "Offene Anfrage",
+    "sentTo": "Gesendet an {{name}} ({{email}})"
+  },
+  "join": {
+    "title": "Einer Familie beitreten",
+    "desc": "Gib die E-Mail-Adresse der Person ein, der die Familie gehört, der du beitreten möchtest. Sie erhält eine Anfrage, die sie annehmen oder ablehnen kann.",
+    "rejected": "Deine letzte Anfrage wurde abgelehnt.",
+    "emailPlaceholder": "email@beispiel.de",
+    "sending": "Wird gesendet…",
+    "send": "Anfrage senden",
+    "emailRequired": "E-Mail-Adresse erforderlich"
+  },
+  "invite": {
+    "roleLabel": "Einladen als",
+    "generate": "Einladungslink erstellen",
+    "generating": "Wird erstellt…",
+    "copyTitle": "Kopieren",
+    "title": "Mitglied einladen",
+    "desc": "Sende die Einladung per E-Mail oder teile den Link selbst. Die eingeladene Person erstellt ihr Konto über diesen Link: Sie tritt deiner Familie bei, ohne ein zusätzliches Abo zu bezahlen.",
+    "emailLabel": "E-Mail (optional)",
+    "emailPlaceholder": "mitglied@beispiel.de",
+    "send": "Einladung senden",
+    "sent": "Einladung an {{email}} gesendet.",
+    "sendFailed": "Die E-Mail konnte nicht gesendet werden. Bitte teile den Link unten selbst.",
+    "linkHint": "Dieser Link ist 7 Tage gültig. Die eingeladene Person muss ihr Konto über diesen Link erstellen, um deiner Familie beizutreten."
+  },
+  "leave": {
+    "leaving": "Wird verlassen…",
+    "leave": "Geteilte Familie verlassen"
+  },
+  "dialog": {
+    "editTitle": "Mitglied bearbeiten",
+    "addTitle": "Mitglied hinzufügen",
+    "description": "Gib die Angaben zum Familienmitglied ein"
+  },
+  "form": {
+    "name": "Name",
+    "namePlaceholder": "z. B. Maria Schmidt",
+    "role": "Rolle",
+    "color": "Farbe",
+    "birthdate": "Geburtsdatum (optional)",
+    "healthInfo": "Gesundheitsinformationen",
+    "allergies": "Allergien (durch Komma getrennt)",
+    "allergiesPlaceholder": "z. B. Erdnüsse, Laktose",
+    "medications": "Medikamente (durch Komma getrennt)",
+    "medicationsPlaceholder": "z. B. Aspirin, Insulin",
+    "emergencyContact": "Notfallkontakt",
+    "contactName": "Name des Kontakts",
+    "contactNamePlaceholder": "z. B. Johann Schmidt",
+    "contactPhone": "Telefon des Kontakts",
+    "contactPhonePlaceholder": "z. B. +49 170 1234567",
+    "notes": "Notizen (optional)",
+    "notesPlaceholder": "Weitere Notizen…"
+  },
+  "confirm": {
+    "kick": "Dieses Konto aus der Familie entfernen?",
+    "transfer": "Eigentum der Familie an {{name}} übertragen?\n\nDu wirst zu einem normalen Mitglied. Alle Familiendaten bleiben erhalten und werden vom neuen Eigentümer verwaltet. Diese Aktion kann nicht rückgängig gemacht werden.",
+    "delete": "Möchtest du dieses Familienmitglied wirklich löschen?",
+    "leave": "Geteilte Familie verlassen? Du erhältst deine eigenen Daten zurück."
+  },
+  "errors": {
+    "load": "Die Familie konnte nicht geladen werden.",
+    "save": "Dieses Mitglied konnte nicht gespeichert werden.",
+    "delete": "Dieses Mitglied konnte nicht gelöscht werden.",
+    "kick": "Dieses Mitglied konnte nicht entfernt werden.",
+    "role": "Die Rolle konnte nicht geändert werden.",
+    "transfer": "Das Eigentum konnte nicht übertragen werden.",
+    "leave": "Die Familie konnte nicht verlassen werden.",
+    "invite": "Der Einladungslink konnte nicht erstellt werden.",
+    "cancelRequest": "Die Anfrage konnte nicht zurückgezogen werden.",
+    "sendRequest": "Die Anfrage konnte nicht gesendet werden.",
+    "approve": "Die Anfrage konnte nicht angenommen werden.",
+    "reject": "Die Anfrage konnte nicht abgelehnt werden."
+  }
+}

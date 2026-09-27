@@ -1,0 +1,33 @@
+{
+  "mode": {
+    "classic": "Klassisch",
+    "kakeibo": "Kakeibo"
+  },
+  "availableTitle": "Verfügbar zum Ausgeben",
+  "availableSub": "{{income}} Einnahmen − {{goal}} Sparziel",
+  "spentSoFar": "Ausgegeben: {{amount}}",
+  "householdIncome": "Haushaltseinkommen",
+  "extraIncome": "Zusätzliche Einnahmen diesen Monat",
+  "totalIncome": "Gesamteinnahmen",
+  "savingsGoal": "Sparziel",
+  "pillarsTitle": "Wohin fließt das Geld?",
+  "pillars": {
+    "survival": "Grundbedarf",
+    "wants": "Wünsche",
+    "culture": "Kultur",
+    "extra": "Unvorhergesehenes"
+  },
+  "pillarHint": {
+    "survival": "Notwendiges",
+    "wants": "Vergnügen",
+    "culture": "Persönliche Entwicklung",
+    "extra": "Extras"
+  },
+  "noExpenses": "Keine Ausgaben in diesem Monat erfasst.",
+  "reviewTitle": "Monatsrückblick",
+  "actualSavings": "Tatsächlich gespart",
+  "goalReached": "Ziel erreicht – {{amount}} über dem Ziel!",
+  "goalMissed": "{{amount}} fehlen bis zu deinem Ziel.",
+  "notesLabel": "Gedanken zum Monat",
+  "notesPlaceholder": "Was lief gut? Was kannst du nächsten Monat besser machen?"
+}
